@@ -2,7 +2,7 @@
 
 ## Overview
 
-Built this app back in November 2023 while we, hardworking folks in the Philippines, eagerly waited for the best part of the year — our bonuses! Whether it’s the 13th Month Pay, Christmas Bonus, or the Individual Performance Bonus, we all know that feeling of checking the calendar like it’s the countdown to a holiday. This app’s here to make sure we don’t miss a second of that sweet, sweet bonus time!
+Built this app back in November 2023 while I, hardworking employee in the Philippines, eagerly awaited for the best part of the year — our bonuses! Whether it’s the 13th Month Pay, Christmas Bonus, or the Individual Performance Bonus, I know the feeling of checking the calendar like it’s the countdown to a holiday. This app’s here to make sure we don’t miss a second of that sweet, sweet bonus time!
 
 You can also use it to create your own countdowns for personal events!
 
