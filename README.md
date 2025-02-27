@@ -32,7 +32,7 @@ Quickly preview your scroll animations by following these steps:
    - Right-click your `index.html` (or relevant HTML file).
    - Select **Open with Live Server**.
 
-   Your project will open in your browser, and you’ll see the scroll animations as you scroll down the page.
+   Your project will open in your browser.
 
 ## Using VSCode Sass Extension for SCSS Compilation
 
@@ -49,7 +49,7 @@ For those using SCSS, here’s how to compile it into CSS:
 
 3. **Check the Output:**
 
-   - Your **animateOnScroll.css** will now be available, ready to be included in your project.
+   - Your **index.css** will now be available, ready to be included in your project.
 
 This setup ensures a smooth development experience while working with SCSS.
 
