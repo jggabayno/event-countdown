@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+
+*, body {
+  font-family: Nunito, sans-serif;
+}
+
+body {
+  background: #111;
+  color: #fff;
+}
+body main {
+  position: relative;
+}
+body img {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 5rem;
+}
+@media (min-width: 768px) {
+  body img {
+    width: 7rem;
+  }
+}
+@media (min-width: 962px) {
+  body img {
+    width: 14rem;
+  }
+}
+body .countdown {
+  padding: 0.4rem;
+  display: grid;
+  gap: 3rem;
+}
+body .countdown .countdown_event {
+  display: grid;
+  gap: 1rem;
+}
+body .countdown .countdown_event .countdown_event_title {
+  font-size: 1.3rem;
+  font-weight: 200;
+  text-transform: uppercase;
+  color: #24E493;
+  margin: 0;
+}
+body .countdown .countdown_event .countdown_event_timer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr));
+  gap: 1rem;
+}
+body .countdown .countdown_event .countdown_event_timer .countdown_timer_unit .countdown_timer_unit_value {
+  margin: 0;
+  font-size: 5rem;
+  font-weight: 400;
+  color: #D2CFCF;
+  line-height: 4.6rem;
+}
+body .countdown .countdown_event .countdown_event_timer .countdown_timer_unit .countdown_timer_unit_key {
+  text-transform: uppercase;
+  font-size: 1rem;
+  font-weight: 200;
+  color: #969494;
+}/*# sourceMappingURL=index.css.map */
