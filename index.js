@@ -1,7 +1,7 @@
 const countdownEvents = [
-    { title: '13th Month', countdown_to_date: '11/14/2023' },
-    { title: 'Christmas Bonus', countdown_to_date: '11/29/2023' },
-    { title: 'Individual Performance Bonus', countdown_to_date: '12/14/2023' },
+    { title: '13th Month', countdown_to_date: '11/14/2025' },
+    { title: 'Christmas Bonus', countdown_to_date: '11/29/2025' },
+    { title: 'Individual Performance Bonus', countdown_to_date: '12/14/2025' },
 ];
 
 const calculateRemainingTime = (targetDate) => {
